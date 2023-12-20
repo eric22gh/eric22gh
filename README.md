@@ -3,7 +3,7 @@
 I'm Eric, a professional from the Costa Rican Social Security Fund (C.C.S.S). Currently, I'm immersed in the fascinating world of AWS, Linux, Terraform, and SQL, learning and growing in these technologies.
 
 - 🔭 I'm currently in the process of putting my knowledge into practice.
-- 🌱 I'm learning more about AWS, Linux, Terraform, and strengthening my skills in SQL.
+- 🌱 I'm learning more about AWS, Linux, Cisco, Terraform, and strengthening my skills in SQL.
 - 💬 You can contact me at e.a.edwards12@hotmail.com.
 
 ⚡ **AWS Riddle:**
