@@ -2,6 +2,11 @@
 
 I'm Eric, a professional from the Costa Rican Social Security Fund (C.C.S.S). Currently, I'm immersed in the fascinating world of AWS, Linux, Terraform, and SQL, learning and growing in these technologies.
 
+## Description
+This Terraform script establishes a scalable and robust AWS infrastructure, laying the groundwork for hosting applications with AWS services. It encompasses essential components for networking, auto-scaling, load balancing, and a managed MySQL database. Whether you're building, deploying, or scaling your applications, this script offers a foundation designed to meet your AWS infrastructure needs.
+
+Feel free to reach out if you have any questions or need further assistance!
+
 - 🔭 I'm currently in the process of putting my knowledge into practice.
 - 🌱 I'm learning more about AWS, Linux, Cisco, Terraform, and strengthening my skills in SQL.
 - 💬 You can contact me at e.a.edwards12@hotmail.com.
